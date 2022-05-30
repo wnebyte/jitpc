@@ -11,5 +11,6 @@ Tools
 *.nonadmin
 *.dll
 *.txt
+!res/report/*.txt
 *.exe
 *.pdb
