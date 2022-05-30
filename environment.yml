@@ -1,0 +1,40 @@
+name: jitpc
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ca-certificates=2022.4.26
+  - certifi=2022.5.18.1
+  - imbalanced-learn=0.9.1
+  - intel-openmp=2022.1.0
+  - joblib=1.1.0
+  - libblas=3.9.0
+  - libcblas=3.9.0
+  - liblapack=3.9.0
+  - m2w64-gcc-libgfortran=5.3.0
+  - m2w64-gcc-libs=5.3.0
+  - m2w64-gcc-libs-core=5.3.0
+  - m2w64-gmp=6.1.0
+  - m2w64-libwinpthread-git=5.0.0.4634.697f757
+  - mkl=2022.0.0
+  - msys2-conda-epoch=20160418
+  - numpy=1.22.3
+  - openssl=1.1.1o
+  - pandas=1.2.5
+  - pip=21.2.2
+  - python=3.8.13
+  - python-dateutil=2.8.2
+  - python_abi=3.8
+  - pytz=2021.3
+  - scikit-learn=1.1.1
+  - scipy=1.8.1
+  - setuptools=61.2.0
+  - six=1.16.0
+  - sqlite=3.38.3
+  - tbb=2021.5.0
+  - threadpoolctl=3.1.0
+  - vc=14.2
+  - vs2015_runtime=14.27.29016
+  - wheel=0.37.1
+  - wincertstore=0.2
+prefix: C:\Users\Ralle\anaconda3\envs\jitpc

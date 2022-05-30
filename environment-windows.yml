@@ -1,0 +1,40 @@
+name: jitpc
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ca-certificates=2022.4.26=haa95532_0
+  - certifi=2022.5.18.1=py38haa95532_0
+  - imbalanced-learn=0.9.1=pyhd8ed1ab_1
+  - intel-openmp=2022.1.0=h57928b3_3787
+  - joblib=1.1.0=pyhd8ed1ab_0
+  - libblas=3.9.0=14_win64_mkl
+  - libcblas=3.9.0=14_win64_mkl
+  - liblapack=3.9.0=14_win64_mkl
+  - m2w64-gcc-libgfortran=5.3.0=6
+  - m2w64-gcc-libs=5.3.0=7
+  - m2w64-gcc-libs-core=5.3.0=7
+  - m2w64-gmp=6.1.0=2
+  - m2w64-libwinpthread-git=5.0.0.4634.697f757=2
+  - mkl=2022.0.0=h0e2418a_796
+  - msys2-conda-epoch=20160418=1
+  - numpy=1.22.3=py38h1d2777f_2
+  - openssl=1.1.1o=h2bbff1b_0
+  - pandas=1.2.5=py38hd77b12b_0
+  - pip=21.2.2=py38haa95532_0
+  - python=3.8.13=h6244533_0
+  - python-dateutil=2.8.2=pyhd3eb1b0_0
+  - python_abi=3.8=2_cp38
+  - pytz=2021.3=pyhd3eb1b0_0
+  - scikit-learn=1.1.1=py38h9235413_0
+  - scipy=1.8.1=py38h9bf8e03_0
+  - setuptools=61.2.0=py38haa95532_0
+  - six=1.16.0=pyhd3eb1b0_1
+  - sqlite=3.38.3=h2bbff1b_0
+  - tbb=2021.5.0=h2d74725_1
+  - threadpoolctl=3.1.0=pyh8a188c0_0
+  - vc=14.2=h21ff451_1
+  - vs2015_runtime=14.27.29016=h5e58377_2
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - wincertstore=0.2=py38haa95532_2
+prefix: C:\Users\Ralle\anaconda3\envs\jitpc

@@ -1,0 +1,15 @@
+conda-meta
+DLLs
+include
+Lib
+Library
+Libs
+Scripts
+tcl
+Tools
+.idea
+*.nonadmin
+*.dll
+*.txt
+*.exe
+*.pdb
