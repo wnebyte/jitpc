@@ -1,10 +1,12 @@
 conda-meta
 DLLs
+etc
 include
 Lib
 Library
 Libs
 Scripts
+share
 tcl
 Tools
 .idea

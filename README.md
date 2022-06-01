@@ -1,5 +1,4 @@
 # jitpc
-jit-bug-prediction-classifier
 
 ## Setup
 
@@ -11,11 +10,19 @@ To recreate the environment; run in a terminal:
 
     conda env create -f environment-windows.yml
 
-#### Any OS
+or
 
     conda env create -f environment.yml
 
-Then copy and paste the src directory into your newly created 
+#### Any OS
+
+    conda create --name <env-name> python=3.8
+    
+    conda install -c conda-forge imbalanced-learn=0.9.1
+    
+    conda install pandas=1.2.5
+
+Then copy and paste this project's [src, res] directories into your newly created 
 anaconda environment.
 
 ## Usage
