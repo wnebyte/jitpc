@@ -20,8 +20,8 @@ positional arguments:
 optional arguments:
   -h, --help           show this help message and exit
   -sep SEP             separator char for parsing csv data
-  -from FROM_INDEX    index for classification of only a subset of DATA
-  -to TO_INDEX        index for classification of only a subset of DATA
+  -from FROM_INDEX     index for classification of only a subset of DATA
+  -to TO_INDEX         index for classification of only a subset of DATA
 """
 
 def main():
