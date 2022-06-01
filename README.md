@@ -10,13 +10,15 @@ To recreate the environment; run in a terminal:
 
     conda env create -f environment-windows.yml
 
-or
-
-    conda env create -f environment.yml
-
 #### Any OS
 
+    conda env create -f environment.yml
+    
+or
+
     conda create --name <env-name> python=3.8
+    
+    conda activate <env-name>
     
     conda install -c conda-forge imbalanced-learn=0.9.1
     
